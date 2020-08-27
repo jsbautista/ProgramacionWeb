@@ -5,11 +5,12 @@
   position: relative;
 }
 
-#Bloque2 {
+#Bloque1, #Bloque5, #Bloque3 {
   background-color: #e0f0fd;
 }
-#Bloque4 {
-  background-color: #e0f0fd;
+
+.navbar{
+background-color: #1f7bc5;
 }
 #imagen {
   position: absolute;
@@ -55,4 +56,12 @@
 }
 .logro{
 margin: auto;
+}
+.margen{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.titulo{
+  background-color: #3791da;
+  color:whitesmoke;
 }
