@@ -5,7 +5,7 @@
   position: relative;
 }
 
-#Bloque1, #Bloque5, #Bloque3 {
+#Bloque1, #Bloque5, #Bloque3, #Bloque7 {
   background-color: #d6dde2;
 }
 
@@ -64,4 +64,15 @@ margin: auto;
 .titulo{
   background-color: #6e7377;
   color:whitesmoke;
+}
+.icon{
+  width: 4rem;
+}
+html{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-variant: small-caps;
+}
+.der{
+  text-align: left;
 }
