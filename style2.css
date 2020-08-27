@@ -10,7 +10,7 @@
 }
 
 .navbar{
-background-color: #1f7bc5;
+background-color: #6e7377;
 }
 #imagen {
   position: absolute;
@@ -46,7 +46,7 @@ background-color: #1f7bc5;
   margin: auto;
 }
 .txt {
-  background-color: rgb(114, 114, 114);
+  background-color: #6e7377;
 }
 .card{
   width: 18rem;
@@ -62,6 +62,6 @@ margin: auto;
   margin-bottom: 50px;
 }
 .titulo{
-  background-color: #3791da;
+  background-color: #6e7377;
   color:whitesmoke;
 }
