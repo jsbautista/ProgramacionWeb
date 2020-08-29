@@ -5,12 +5,13 @@
   position: relative;
 }
 
-#Bloque1, #Bloque5, #Bloque3, #Bloque7 {
+/*Since you are needing this rule for many elements maybe it is easier to do it with a class.*/
+.fondobclaro {
   background-color: #d6dde2;
 }
 
-.navbar{
-background-color: #6e7377;
+.navbar {
+  background-color: #6e7377;
 }
 #imagen {
   position: absolute;
@@ -48,31 +49,32 @@ background-color: #6e7377;
 .txt {
   background-color: #6e7377;
 }
-.card{
+.card {
   width: 18rem;
 }
-.cards{
-  width: auto; margin: auto auto;
+.cards {
+  width: auto;
+  margin: auto auto;
 }
-.logro{
-margin: auto;
+.logro {
+  margin: auto;
 }
-.margen{
+.margen {
   margin-top: 50px;
   margin-bottom: 50px;
 }
-.titulo{
+.titulo {
   background-color: #6e7377;
-  color:whitesmoke;
+  color: whitesmoke;
 }
-.icon{
+.icon {
   width: 4rem;
 }
-html{
-  font-family: 'Times New Roman', Times, serif;
+html {
+  font-family: "Times New Roman", Times, serif;
   font-style: italic;
   font-variant: small-caps;
 }
-.der{
+.der {
   text-align: left;
 }
